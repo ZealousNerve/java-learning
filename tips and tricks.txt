@@ -1,0 +1,4 @@
+Ctrl + ~  opens the terminal
+Ctrl + \  split the terminal into half
+using ] this sign in mpv player we can increase the speed by 10% and use [ to decrease
+exceptions are runtime error, it is the error cause while running a code
