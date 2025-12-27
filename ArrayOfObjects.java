@@ -9,7 +9,7 @@ class Student{
 public class ArrayOfObjects {
     public static void main(String[] args) {
 
-        Student s1 = new Student();
+        Student s1 = new Student(); //the student() at the end is called as constructor
         s1.rollno =1;
         s1.name = "Navin";
         s1.marks = 88;

@@ -36,5 +36,5 @@ public class ClassesAndObject {
 
 //First we have to create a class
 //then we have to create method with properties
-//then createa an object based on the property of that method
+//then create an object based on the property of that method
 //then use the object

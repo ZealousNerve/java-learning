@@ -6,7 +6,7 @@ public class Literals {
         System.out.printf("%d %d\n", num1, num2); 
         // printf is known as formatted print function 
 
-        // i have used it coz print(arguments) or println(arguments) can take only
+        // i have used it coz print(arguments) or println(arguments) can print only
         // one argument at a time.
 
         int num3 = 10_00_000; // here underscores are just to have ease in couting number of zeroes

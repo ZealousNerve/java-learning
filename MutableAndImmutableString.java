@@ -26,7 +26,7 @@ public class MutableAndImmutableString {
 
 
         /*
-        Immutable String: string which can;t be changed, once we create an object we can't change so it become immutable
+        Immutable String: string which can't be changed, once we create an object we can't change so it become immutable
         when we change it will create a new object, by default string in java is immutable. here the code shown below shows it perfectly
         */
 

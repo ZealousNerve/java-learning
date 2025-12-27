@@ -19,7 +19,7 @@ public class Arrays {
         int nums[][] = new int[3][4];
 
         //here below we are using for loop to fill random values in the array using a math function in java which gives random number
-        //-less than 1 and hence we have multiplied with 100 to give a integer
+        //-less than 1 and hence we have multiplied with 100 to give a "two digit integer
         for(i=0; i<=2; i++){
             for(int j=0;j<=3;j++){
                 nums[i][j] = (int)(Math.random()* 100); 

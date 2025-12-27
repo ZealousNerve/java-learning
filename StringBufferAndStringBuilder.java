@@ -8,7 +8,7 @@ public class StringBufferAndStringBuilder {
 
         System.out.println(sb.length()); // to print the length of string which is 5 in case of navin
 
-        /*if we out string is empty then the buffer size it will print will be 16, but after when we gave an intial
+        /*if our string is empty then the buffer size it will print will be 16, but after when we gave an intial
           string "navin", which is of 5 characters, now the buffer size will be 21(i.e. 16+5), after the string it gave us
           extra 16 char buffer size for any additional change which we can do as string buffer is an immutable string
          */

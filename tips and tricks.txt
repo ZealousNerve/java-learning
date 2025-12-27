@@ -1,4 +1,4 @@
 Ctrl + ~  opens the terminal
 Ctrl + \  split the terminal into half
-using ] this sign in mpv player we can increase the speed by 10% and use [ to decrease
+using ] this sign in mpv player we can increase the speed by 10% and use [ to decrease //only in linux
 exceptions are runtime error, it is the error cause while running a code

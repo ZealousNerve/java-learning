@@ -13,7 +13,8 @@ public class ArithmeticOperators {
         a += 2; //increment by 2
         a++; // increment by 1 (postincrement and preincrement shit)
 
-        System.out.printf("%d\n %d\n %d\n %d\n %d\n", r1, r2, r3, r4, r5);
+        System.out.printf("%d\n %d%n %d\n %d\n %d\n", r1, r2, r3, r4, r5);
+        //%n is preferred in Java instead of \n (platform independent)
     }
     
 }
