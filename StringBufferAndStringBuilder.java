@@ -24,6 +24,10 @@ public class StringBufferAndStringBuilder {
          System.out.println(sb); 
 
          //String str = sb; it will give an error as string buffer can't be converted into String both are different datatypes
+         //we can use .toString to forcefully convert string buffer into string
+
+
+         /* the only difference between in string builder and string buffer is related to threads, which we are gonna study later...... */
 
 
 
