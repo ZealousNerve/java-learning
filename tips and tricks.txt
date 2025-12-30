@@ -2,3 +2,20 @@ Ctrl + ~  opens the terminal
 Ctrl + \  split the terminal into half
 using ] this sign in mpv player we can increase the speed by 10% and use [ to decrease //only in linux
 exceptions are runtime error, it is the error cause while running a code
+
+
+
+java follow a naming convention known as "Camel Casing"
+class and interface - first letter capital
+variable and method - small letter
+constants - all capital like PIE, BRAND
+ 
+to join two or more words - showMyMarks, MyData(this is a class name first letter capital)
+
+Human()- this is a constructor, by capital first letter it might be a class and by the square bracket it is a method
+and hence combination of the two make a consstructor
+
+
+
+certain other languages uses snake casing the use of underscores like
+show_my_marks
