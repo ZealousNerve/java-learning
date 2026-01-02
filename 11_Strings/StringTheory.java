@@ -1,7 +1,7 @@
 public class StringTheory {
     public static void main(String[] a) {
-        //in java string is not just a datatype it is a class,
-        //--and to use it we have to first create an object with properties of that class
+        /* in java string is not just a datatype it is a class, and to use it we have to
+         first create an object with properties of that class */
 
         //beaware do not create a String class as it will conflict with java.lang.String
 

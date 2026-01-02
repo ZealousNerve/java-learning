@@ -1,14 +1,12 @@
 public class LogicalOperators {
-    public static void main(String args[]){
+    public static void main(String[] args){
         // & (AND), | (OR), ! (NOT)
         // &&, ||, ! - short circuit
         
-        // in short circuit, if the first command satisfies it 
+        // in short circuit, if the first command satisfies it won't even look at the second condition
 
         /* In both C and Java, && is logical AND and & is bitwise AND; however, 
         Java allows & to also operate on boolean values without short-circuiting. */
-        
-        // wouldn't even check the second command
 
         int x = 7;
         int y = 5;

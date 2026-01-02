@@ -33,7 +33,7 @@ class C extends A{
 public class Polymorphism {
     public static void main(String[] args) {
         /* in the line given below we are creating refrence of a super class and object of a daughter class.
-        suppose A is Computer and B is laptop so we can create refrence to a computer and object of laptop class */
+        suppose A is Computer and B is laptop so we can create refrence to a computer and object of laptop class as every laptop is a computer*/
 
         A obj = new A();
         obj.show();

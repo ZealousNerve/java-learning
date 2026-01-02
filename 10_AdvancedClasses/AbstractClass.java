@@ -1,7 +1,7 @@
 abstract class Car{ //abstract class
     public abstract void drive();
       /* we are only declaring a method here and we want that WangonR update this
-      and to do that so we have to use abstract keyword, if we not use it we have declare it here
+      and to do that so we have to use abstract keyword, if we not use it we have to declare it here
       but we want to declare it by different models like WagonR 
       
       next point is that a abstract method can be only inside a abstract class and hence we added

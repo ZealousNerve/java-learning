@@ -24,7 +24,7 @@ public class ArrayOfObjects {
         s3.name= "Shruti";
         s3.marks = 85;
 
-        Student students[] = new Student[3]; //here we are creating a array which stores the data of object
+        Student students[] = new Student[3]; //here we are creating a array object which stores the data of object
         students[0]=s1;
         students[1]=s2;
         students[2]=s3;

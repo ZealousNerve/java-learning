@@ -1,5 +1,5 @@
 public class Datatypes {
-    public static void main(String a[]){
+    public static void main(String[] args){
         // int, float, character(2 bytes), boolean
         // int - byte(1 bytes), short(2 bytes), int(4 bytes), long(8 bytes)
         int num1 = 2;

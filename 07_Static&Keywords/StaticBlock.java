@@ -28,7 +28,7 @@ class Mobile{
         every time a obj is created a constructor is called*/
     }
 
-    public Mobile(int price, String brand){            // this is known as parametrized constructor coz of parameters
+    public Mobile(int price, String brand){           // this is known as parametrized constructor coz of parameters
             this.brand = brand; //this keyword is already explained
             this.price = price;
     }
@@ -48,7 +48,7 @@ class Mobile{
 public class StaticBlock {
 
 
-    public static void main(String a[]) throws ClassNotFoundException {
+    public static void main(String[] args) throws ClassNotFoundException {
         Mobile obj1 = new Mobile();
         obj1.brand = "Apple";
         obj1.price = 1500;
@@ -68,7 +68,7 @@ public class StaticBlock {
 
         /* 
             a simple analogy:
-            static block - swtich on the main powe supply
+            static block - swtich on the main power supply
             constructor - turning on individual appliances
         */
 
@@ -81,7 +81,7 @@ public class StaticBlock {
 
         //Class.forName("Mobile"); 
 
-        /* the above code is just used to load a class, here in the code "Class" is a class and for name is a method of class "Class" 
+        /* the above code is just used to load a class, here in the code "Class" is a class and forName is a method of class "Class" 
         writing only this line would throw an exception and to fix it we have written an extra line after the main(String a[]) 
         the extra line is 'throws CLassNotFoundException' */ 
         

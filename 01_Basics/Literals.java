@@ -1,7 +1,7 @@
 public class Literals {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int num1 = 0b101; //b stands for binary and 101 is binary of 5
-        int num2 = 0x7E; //x stands for hexadecinal, 7E is for 126
+        int num2 = 0x7E; //x stands for hexadecimal, 7E is for 126
 
         System.out.printf("%d %d\n", num1, num2); 
         // printf is known as formatted print function 
@@ -9,7 +9,7 @@ public class Literals {
         // i have used it coz print(arguments) or println(arguments) can print only
         // one argument at a time.
 
-        int num3 = 10_00_000; // here underscores are just to have ease in couting number of zeroes
+        int num3 = 10_00_000; // here underscores are just to have ease in counting number of zeroes
         // as the underscores wouldn't print
 
         System.out.println(num3);

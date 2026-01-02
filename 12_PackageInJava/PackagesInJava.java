@@ -1,6 +1,9 @@
+/* in this package there are three files first move the main file outside the folder and rest of the files should be insde a folder
+named PackgJava, until then it will show an error */
+
+
 import PackgJava.AdvCalc;
 import PackgJava.Calc;
-
 // import PackgJava.*;
 
 //now lets import some standard libraries

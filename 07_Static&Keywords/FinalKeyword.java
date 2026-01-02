@@ -1,7 +1,6 @@
 // Final can be used with Variable, Class, Method
 
 
-
 final class Calc1{ //class is made final 
     public void show(){
         System.out.println("in Calc1 show");

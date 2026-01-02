@@ -23,7 +23,7 @@ class Mobile{
 public class StaticVariable {
 
 
-    public static void main(String a[]){
+    public static void main(String[] args){
         Mobile obj1 = new Mobile();
         obj1.brand = "Apple";
         obj1.price = 1500;

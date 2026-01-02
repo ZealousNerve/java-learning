@@ -8,7 +8,7 @@ public class Inheritance {
         // as obj is a object of AdvCalc which can perform only multiplication and division
         //and to do additon and subtraction we have to create a object of Calc
 
-        /* but istead of doing that we will use a keyword extend in AdvCalc so that it can 
+        /* but istead of doing that we will use a keyword 'extends' in AdvCalc so that it can 
         inherit the properties of superclass Calc also and then can perform addition and subtraction also */
 
         //after using the extends keyword

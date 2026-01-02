@@ -18,13 +18,13 @@ public class InputInJava{
         sc.nextLine(); 
 
         /* after we wrote anurag in the single word place, and pressed enter, so the new enter is not stored anywhere and when 
-        we write String sentence = sc.nextLine() it takes that enter as input and woldn't let us write anything, it quickly move to 
+        we write String sentence = sc.nextLine() it takes that enter as input and wouldn't let us write anything, it quickly move to 
         next step without taking our input, as it has taken previous enter key as input, and that's why we use sc.nextLine(); this before
         String sentence = sc.nextLine(); as sc.nextLine() this consumes all the previous enter keysss*/
 
 
-        /* nextInt nextFloat next won't take previous leftovers as input(leftover example is enter key), but sc.nextLine() this take leftovers
-         as input as well */
+        /* nextInt(), nextFloat(), and next() do not consume the newline character, but nextLine() consumes the entire line including 
+        the leftover newline. */
 
         String sentence = sc.nextLine();    // complete line 
 

@@ -1,5 +1,5 @@
 // A wrapper class in Java is a class that wraps a primitive data type into an object.
-// primitive int has a predefined class named Integer, byte as Byte and so on
+// primitive int has a predefined class named Integer, byte as Byte and so on....
 // we can use it if we want to work on that by making it an object istead of primitive value
 // for example a collection in java stores objects not primitives, and to use utility methods like parsing, conversions etc
 // object can allow having null values ex. String but primitive can't

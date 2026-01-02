@@ -1,5 +1,5 @@
 public class ConditionalStatements {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int x = 8;
         int y = 7;
         int z = 9;

@@ -1,10 +1,10 @@
 public class TypeCasting {
-    public static void main(String args[]){
+    public static void main(String[] args){
         byte b = 127; //max value of byte
         int a = 256;
 
-        // b = a; cannot convert from int to byte i.e. smaller to larger
-        // a = b; possible as byte to int is feasible
+        // b = a; cannot convert from int to byte (larger to smaller)
+        // a = b; possible as byte to int (smaller to larger)
 
 
 

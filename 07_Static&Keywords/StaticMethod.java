@@ -8,10 +8,12 @@ class Mobile{
 
     public void show(){ 
         System.out.println(brand + " : " + price + " : " + name);
+        //non-static method can take normal as well as static variable also
     }
 
     public static void show1(){
         System.out.println(name);
+        //static method can take only static variables, explanation given below
     }
 }
 
@@ -19,7 +21,7 @@ class Mobile{
 public class StaticMethod {
 
 
-    public static void main(String a[]){
+    public static void main(String[] args){
         Mobile obj1 = new Mobile();
         obj1.brand = "Apple";
         obj1.price = 1500;
@@ -45,7 +47,7 @@ public class StaticMethod {
 
 
         /* if the main method wouldn't be static then in order to call it we have to first create an object of out main class i.e. StaticMethod
-        and as main is the starting point of code running then how can we create a object first, as main would be declared after creation of object
+        and as main is the starting point of code, without running then how can we create a object first, as main would be declared after creation of object
         
         and to get rid of this problem we use static keyword in main method*/
 
@@ -53,7 +55,7 @@ public class StaticMethod {
 
 
         /* static method can take only static variable as both are same for the class, as if we use non static variable in static method then how the method
-        gonno know of which object this variable belong to
+        gonna know of which object this variable belong to
         
         we can use refrence to use non static variable in a static methond, call by refrence shit*/
 

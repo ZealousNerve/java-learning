@@ -2,8 +2,9 @@ class Calculator{
     //class can have variables
     int a; 
 
-    //below, public shows the access that the method can be called from anywhere, int shows the datatypes in
-    //in which the method is going to return the value when called, and the name of the method is "add"
+    /* below, public shows the access that the method can be called from anywhere, int shows the datatypes
+    in which the method is going to return the value when called, and the name of the method is "add" */
+
     public int add(int n1, int n2){
         System.out.println("in add");
         int r = n1 + n2;
@@ -19,7 +20,7 @@ public class ClassesAndObject {
     //Object oriented programming
     //every object have two properties it knows something and it does something
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int num1 = 4;
         int num2 = 5;

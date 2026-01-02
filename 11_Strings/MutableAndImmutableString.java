@@ -31,7 +31,7 @@ public class MutableAndImmutableString {
         */
 
         String p1 = "Hello";
-        String p2 = p1;      // s2 also references "Hello"
+        String p2 = p1;      // p2 also references "Hello"
 
         p1 = p1 + " World";  // Creates a NEW object "Hello World"
 

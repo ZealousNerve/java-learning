@@ -6,7 +6,7 @@ class Student {
 //this is a case which replicates call by refrence in java but still it is called as call by value because value is sended
 
 
-/* if we don't care about adavance oops topic then in java and c comparison struct(c) is like object(java) and function(c) are like methods(java) */
+/* if we don't care about adavance oops topic then in java and c comparison struct(c) is like class(java) and function(c) are like methods(java) */
 
 
 
