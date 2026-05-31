@@ -33,7 +33,7 @@ public class Loops {
 
         for(int i=1; i<=4; i++){
             System.out.println("HI " + (i+8));
-            //if we wouldn't put a bracket here in i + 8 it will assume it as a string because we are combinig string as well
+            //if we wouldn't put a bracket here in i + 8 it will assume it as a string because we are combining string as well
         }
      //nested can also be applied
 

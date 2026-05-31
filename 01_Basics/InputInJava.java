@@ -20,7 +20,7 @@ public class InputInJava{
         /* after we wrote anurag in the single word place, and pressed enter, so the new enter is not stored anywhere and when 
         we write String sentence = sc.nextLine() it takes that enter as input and wouldn't let us write anything, it quickly move to 
         next step without taking our input, as it has taken previous enter key as input, and that's why we use sc.nextLine(); this before
-        String sentence = sc.nextLine(); as sc.nextLine() this consumes all the previous enter keysss*/
+        String sentence = sc.nextLine(); as sc.nextLine() this consumes all the previous enter keys*/
 
 
         /* nextInt(), nextFloat(), and next() do not consume the newline character, but nextLine() consumes the entire line including 
@@ -28,9 +28,9 @@ public class InputInJava{
 
         String sentence = sc.nextLine();    // complete line 
 
-        System.out.printf(" %d\n %.2f\n %s\n %s", a, b, name, sentence); // same printf style
+        System.out.format(" %d\n %.2f\n %s\n %s", a, b, name, sentence); // same printf style
 
 
-        sc.close(); // as in the start we used system.in, which is a system resource so its good to close the scanner once done as to free up the system resources
+        sc.close(); // as in the start we used system.in, which is a system resource so it's good to close the scanner once done as to free up the system resources
     }
 }

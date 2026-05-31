@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01_Basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_ControlFlow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_Arrays&amp;Memory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_Classes&amp;Objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_Static&amp;Keywords" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_CoreOOPs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_TypeSystem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_AdvancedClasses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_PackageInJava" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_Interfaces&amp;Lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Enum&amp;annotations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_ExceptionHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_Input&amp;Output" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_Threads" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_Collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_StreamAPI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp_notes" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

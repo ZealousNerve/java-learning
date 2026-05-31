@@ -16,11 +16,6 @@ public class TernaryOperator {
     result = (n%2==0 ? "even": "odd");
     //now this ? and : is called as ternary operator
     System.out.println(result);
-        
-        
-
-
-
 
     }
 }
